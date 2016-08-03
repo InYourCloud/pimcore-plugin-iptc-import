@@ -1,5 +1,5 @@
 {
-  "name": "basilicom/pimcore-plugin-iptc-import",
+  "name": "basilicom-pimcore-plugin/iptc-import",
   "description": "Upload images and auto create meta information based on iptc data.",
   "type": "pimcore-plugin",
   "license": "BSD-3-Clause",
